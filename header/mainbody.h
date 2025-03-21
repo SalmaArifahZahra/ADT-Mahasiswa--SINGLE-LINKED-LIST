@@ -4,7 +4,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "boolean.h"
+#include "BOOLEAN.h"
 
 #define Nil NULL
 #define Nama(P) (P)->nama

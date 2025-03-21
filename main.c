@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <malloc.h>
-#include "mainbody.h"
+#include "header/mainbody.h"
 
 int main()
 {
